@@ -1,0 +1,51 @@
+body {
+	background-color :#f7f0e5;
+}
+
+h1, h5 {
+
+font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+margin: 15px 0px;
+
+}
+
+button, div, form, input {
+    margin: 5px;
+}
+
+.btn {
+    padding: .54rem 0.5rem;
+}
+
+.navbar form .md-form input {
+    margin: 0 5px 0px 8px;
+}
+
+input:-webkit-autofill {
+    background-color: white;
+}
+
+.btn.btn-sm {
+    padding: .5rem 1.6rem;
+    font-size: .84rem;
+}
+
+.btn-mdb-color {
+    background-color: #8d131e!important;
+    color: #fff!important;
+}
+
+.holder {
+    float: left;
+ 
+}
+
+/* .giphy {
+    display: inline-block;
+    margin: 10px;
+} */
+
+img {
+   
+    max-height: 150px;
+}
